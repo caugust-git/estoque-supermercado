@@ -1,2 +1,2 @@
 # estoque-supermercado
-# Antonio  Ibane - Camila Augusto - Charles Kulkauski
+# Antonio  Ibane - Arthur Silverol Monteiro - Charles Kulkauski - Maria
